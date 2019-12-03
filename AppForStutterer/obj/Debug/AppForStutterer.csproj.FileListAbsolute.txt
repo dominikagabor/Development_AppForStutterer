@@ -1,0 +1,81 @@
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.pdb
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csprojResolveAssemblyReference.cache
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.Cache
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.exe
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.pdb
+C:\Users\domin\source\repos\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form2.resources
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.pdb
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csprojResolveAssemblyReference.cache
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form2.resources
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.Cache
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.pdb
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.pdb
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csprojResolveAssemblyReference.cache
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.Cache
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.pdb
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\bin\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\bin\Debug\AppForStutterer.pdb
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\obj\Debug\AppForStutterer.csprojResolveAssemblyReference.cache
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.Cache
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\obj\Debug\AppForStutterer.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\obj\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\PULPIT\AppForStutterer1\AppForStutterer\obj\Debug\AppForStutterer.pdb
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.exe
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.pdb
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.pdb
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csprojResolveAssemblyReference.cache
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.Cache
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\bin\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\bin\Debug\AppForStutterer.pdb
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\obj\Debug\AppForStutterer.csprojResolveAssemblyReference.cache
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.Cache
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\obj\Debug\AppForStutterer.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\obj\Debug\AppForStutterer.exe
+C:\Users\domin\Desktop\AppForStutterer222\AppForStutterer\obj\Debug\AppForStutterer.pdb
+C:\Users\domin\Documents\Visual Studio 2015\Projects\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.CoreCompileInputs.cache
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.pdb
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csprojResolveAssemblyReference.cache
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.Cache
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.CoreCompileInputs.cache
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.exe
+F:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.pdb
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe.config
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.exe
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\bin\Debug\AppForStutterer.pdb
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csprojAssemblyReference.cache
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Form1.resources
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.Properties.Resources.resources
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.GenerateResource.cache
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.csproj.CoreCompileInputs.cache
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.exe
+L:\PROJEKTY\PUM\AppForStutterer\AppForStutterer\obj\Debug\AppForStutterer.pdb
